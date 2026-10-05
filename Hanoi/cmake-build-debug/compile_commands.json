@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/PRACTICA/Hanoi/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Hanoi.dir\\main.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\ALGORITMIA ACADEMIA\\LAB 03\\PRACTICA\\Hanoi\\main.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/PRACTICA/Hanoi/main.cpp",
+  "output": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/PRACTICA/Hanoi/cmake-build-debug/CMakeFiles/Hanoi.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/PRACTICA/Hanoi/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Hanoi.dir\\Bibliotecas\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\ALGORITMIA ACADEMIA\\LAB 03\\PRACTICA\\Hanoi\\Bibliotecas\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/PRACTICA/Hanoi/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/PRACTICA/Hanoi/cmake-build-debug/CMakeFiles/Hanoi.dir/Bibliotecas/FuncionesAuxiliares.cpp.obj"
+}
+]
