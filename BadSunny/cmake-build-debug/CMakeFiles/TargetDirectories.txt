@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug/CMakeFiles/BadSunny.dir
+C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug/CMakeFiles/rebuild_cache.dir

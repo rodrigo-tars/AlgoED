@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\BadSunny.dir\\main.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\ALGORITMIA ACADEMIA\\LAB 03\\HECHO\\PUCP\\BadSunny\\main.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/main.cpp",
+  "output": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug/CMakeFiles/BadSunny.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\BadSunny.dir\\BibliotecaPila\\funcionesPila.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\ALGORITMIA ACADEMIA\\LAB 03\\HECHO\\PUCP\\BadSunny\\BibliotecaPila\\funcionesPila.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/BibliotecaPila/funcionesPila.cpp",
+  "output": "C:/Users/LENOVO/Documents/ALGORITMIA ACADEMIA/LAB 03/HECHO/PUCP/BadSunny/cmake-build-debug/CMakeFiles/BadSunny.dir/BibliotecaPila/funcionesPila.cpp.obj"
+}
+]
